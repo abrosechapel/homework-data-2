@@ -3,7 +3,6 @@ from unittest import TestCase, main
 from homework4_test import pin_validation,operation,update_balance
 
 
-
 class atm_program_ut(TestCase):
     #Validate if the pin is correct:
     def test_pin_validation(self):
