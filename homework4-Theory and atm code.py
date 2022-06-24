@@ -6,7 +6,6 @@ Created on Mon Jun 20 10:40:36 2022
 
 """
 
-
 ###TASK 1 (Git and GitHub)###
 
 ##Question 1##
