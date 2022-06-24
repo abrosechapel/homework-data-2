@@ -5,6 +5,7 @@ Created on Mon Jun 20 10:40:36 2022
 @author: Carla Bailón Rosas
 
 """
+
 ###TASK 1 (Git and GitHub)###
 
 ##Question 1##
