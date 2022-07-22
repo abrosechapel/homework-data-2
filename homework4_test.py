@@ -7,7 +7,7 @@ Created on Mon Jun 20 10:40:36 2022
 
 #pin_input=input("insert your pin code: ")
 #pin_code={'1192':["Enrico",100],'1193':["Luciano",2000]}
-#pin_code={'1192':["Enrico",100],'1193':["Luciano",-10]}
+#pin_code={'1192':["Enrico",100],'1193':["Luciano",-10]} #negative
 def pin_validation(pin_code,pin_input):
     op=3
     pin_input=str(pin_input)
